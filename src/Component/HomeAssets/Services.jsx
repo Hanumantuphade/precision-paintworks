@@ -3,6 +3,7 @@ import SectionTitle from '../ui/SectionTitle';
 
 
 
+
 const services = [
   {
     id: 1,
@@ -40,7 +41,8 @@ const ServicesSection = () => {
   return (
     <>
     <div className='flex justify-center items-center pt-6 '>
-    <SectionTitle title="Our Services" subtitle="Services We’re Offering" center={true} />
+      <SectionTitle title='Our Services' subtitle="Services We’re Offering"/>
+    
     </div>
     
     

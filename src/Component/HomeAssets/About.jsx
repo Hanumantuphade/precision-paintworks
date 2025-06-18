@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import SectionTitle from '../ui/SectionTitle';
 
 
+
 const fadeIn = (direction = 'up', delay = 0) => ({
   hidden: {
     opacity: 0,
@@ -75,7 +76,7 @@ const About = () => {
            viewport={{ once: true }}
          >
          
-           <SectionTitle title="About precision paintworks" subtitle="Our story" />
+           <SectionTitle title="About precision paintworks" subtitle="Our story"/>
 
            <motion.p
              className="text-primary-600 mb-5"
