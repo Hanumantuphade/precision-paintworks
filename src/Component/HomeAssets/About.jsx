@@ -1,9 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import SectionTitle from '../ui/SectionTitle'; //okk
-
-
+import SectionTitle from '../ui/SectionTitle';
 
 const fadeIn = (direction = 'up', delay = 0) => ({
   hidden: {
