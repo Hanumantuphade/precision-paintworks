@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion';
 import React, { useEffect, useState } from 'react';
-import SectionTitle from "../ui/SectionTitle";
+
 
 const slideVariants = {
   enter: { opacity: 0, x: 50 },
