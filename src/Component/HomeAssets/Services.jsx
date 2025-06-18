@@ -1,5 +1,6 @@
 import React from 'react';
-import SectionTitle from '../ui/SectionTitle';
+import SectionTitle from '../../ui/SectionTitle';
+
 
 
 const services = [
