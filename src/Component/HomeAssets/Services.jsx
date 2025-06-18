@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionTitle from '../ui/SectionTitle.jsx';
+import SectionTitle from '../ui/SectionTitle';
 
 
 
