@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionTitle from '../ui/SectionTitle';
+// import SectionTitle from '../ui/SectionTitle';
 
 
 
@@ -39,9 +39,9 @@ const services = [
 const ServicesSection = () => {
   return (
     <>
-    <div className='flex justify-center items-center pt-6 '>
+    {/* <div className='flex justify-center items-center pt-6 '>
     <SectionTitle title="Our Services" subtitle="Services We’re Offering" center={true} />
-    </div>
+    </div> */}
     
     
     <section className="py-16 bg-primary-50 text-black">
